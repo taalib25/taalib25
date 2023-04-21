@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Curious developer 👀 ,interested in the field of software development and the advancement of AI.I am ready to put my skils to the test and see what great things can be developed through collaberations, problem solving and soficticated engineering.
+### As a curious developer, I'm highly interested in the field of software development and passionate about the advancements in artificial intelligence. I'm ready to put my skills to the test and collaborate with others to develop great solutions through problem-solving and sophisticated engineering
 
 - 🌱 I’m currently learning flutter ,react native and REST API
 - 👯 I’m looking to collaborate on the areas of machine learning ,UI/UX and  Mobile Development 
