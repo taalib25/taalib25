@@ -11,8 +11,25 @@ full-stack dev out of colombo, sri lanka. i mostly build stuff for fun, and some
 - **[safeview](https://github.com/taalib25/safeview)**: flags overstimulating kids' videos, 70%+ accuracy.
 - **hackerrank orchestrate**: built a financial decision pipeline, finished top 10%.
 
-**right now:** open to swe roles, messing around with agents and evals.
+**right now:** open to ai engineer roles, messing around with agents and evals.
 
-**usually using:** typescript, bun, react, next.js, hono, postgres, python, go, flutter, docker, k3s
+## stuff i build with
 
-[portfolio](https://taalib-ten.vercel.app) · [linkedin](https://www.linkedin.com/in/taalibasaf) ✌️
+**ai stuff**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=claude&logoColor=D97757)
+![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-191919?style=for-the-badge&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-191919?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**the rest**
+
+[![stack](https://skillicons.dev/icons?i=ts,bun,react,nextjs,postgres,supabase,py,go,laravel,flutter,docker,kubernetes,githubactions,cloudflare,vercel,opencv&theme=dark&perline=8)](https://taalib-ten.vercel.app)
+
+![Hono](https://img.shields.io/badge/Hono-191919?style=for-the-badge&logo=hono&logoColor=E36002)
+![Drizzle](https://img.shields.io/badge/Drizzle-191919?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+
+---
+
+[![portfolio](https://img.shields.io/badge/portfolio-191919?style=for-the-badge&logo=vercel&logoColor=white)](https://taalib-ten.vercel.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/taalibasaf) ✌️
