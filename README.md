@@ -1,6 +1,6 @@
 # hey, i'm taalib 👋
 
-full-stack dev out of colombo, sri lanka. i mostly build stuff for fun, and sometimes real people end up using it.
+i mostly build stuff for fun
 
 ## things i've made
 
@@ -31,5 +31,5 @@ full-stack dev out of colombo, sri lanka. i mostly build stuff for fun, and some
 
 ---
 
-[![portfolio](https://img.shields.io/badge/portfolio-191919?style=for-the-badge&logo=vercel&logoColor=white)](https://taalib-ten.vercel.app)
+[![portfolio](https://img.shields.io/badge/portfolio-191919?style=for-the-badge&logo=vercel&logoColor=white)](https://taalibasaf.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/taalibasaf) ✌️
